@@ -47,7 +47,7 @@ def matrix_feed_forward_calc(n_layers, x, w, b):
 
     return h
 
-w = [w1, w2]
+w = [w1, w2] 
 b = [b1, b2]
 
 x = [1.5,2.0,3.0]
